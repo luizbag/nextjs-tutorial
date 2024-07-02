@@ -1,5 +1,7 @@
 export default function Home () {
   return (
-    <div>Hello</div>
+    <div>
+      <h1>NextJS Tutorial</h1>
+    </div>
   );
 }
